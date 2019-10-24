@@ -13,6 +13,8 @@ If the sum is divisible by 11, output the message, “Legal ISBN”. If the sum 
 
 By, Paras k Shah 
 date-24/10/2019
+
+Modifying the question
 '''
 
 
