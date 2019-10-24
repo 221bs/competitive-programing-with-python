@@ -9,7 +9,11 @@ Input:
 Output:
 If the ISBN is not a 10-digit integer, output the message “Illegal ISBN” and terminate the program.
 If the number is 10-digit, extract the digits of the number and compute the sum as explained in the explanation.
-If the sum is divisible by 11, output the message, “Legal ISBN”. If the sum is not divisible by 11, output the message, “Illegal ISBN”.'''
+If the sum is divisible by 11, output the message, “Legal ISBN”. If the sum is not divisible by 11, output the message, “Illegal ISBN”.
+
+By, Paras k Shah 
+date-24/10/2019
+'''
 
 
 s=list(input())
